@@ -17,7 +17,7 @@ export const Default: Story = {
 
 export const MineSweeperGameName: Story = {
   args: {
-    children: 'Mine Sweeper',
+    children: 'Mine Sweeper2',
   },
 };
 
